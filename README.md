@@ -57,13 +57,12 @@ I do papercrafting as a hobby ( which you can see [here](https://instagram.com/r
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hajay180505&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="hajay180505" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hajay180505&row=1&column=4&theme=nord" alt="hajay180505" /></a> </p>
-
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=hajay180505&theme=rose&border_radius=10.3&mode=weekly" alt="GitHub Streak" />
-</a>
-
-![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajay180505&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajay180505&layout=compact&card_width=350)
+<p>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=hajay180505&theme=rose&border_radius=10.3&mode=weekly" alt="GitHub Streak" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=hajay180505&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajay180505&layout=compact&card_width=350" alt="Top Languages" />
+</p>
 
 
