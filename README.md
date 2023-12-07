@@ -76,8 +76,12 @@
 </div>
 
 <div>
+  <a href="https://github.com/hajay180505?tab=repositories">
   <img align='top' width=400 src="https://github-readme-stats.vercel.app/api?username=hajay180505&show_icons=true&theme=jolly" alt="GitHub Stats" />
+  </a>
+  <a href = "https://github.com/hajay180505?tab=repositories">
   <img align='top' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hajay180505&layout=compact&card_width=350&theme=jolly" alt="Top Languages" />
+  </a>
 </div>
 
 
@@ -90,5 +94,5 @@
 <a href="https://medium.com/@hajay180505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hajay180505" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/hajay180505" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="hajay180505" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/hajay180505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hajay180505" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hajay180505" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hajay180505" height="30" width="40" /></a>
+<a href="https://leetcode.com/Ajay_180505/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hajay180505" height="30" width="40" /></a>
 </p>
