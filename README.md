@@ -52,15 +52,15 @@
 
 I do papercrafting as a hobby ( which you can see [here](https://instagram.com/rohan_krishibe). )
 
+### Stats
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hajay180505&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="hajay180505" /> </p>
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hajay180505&row=1&column=4&theme=nord" alt="hajay180505" /></a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hajay180505&label=Profile%20views&color=0e75b6&style=flat" alt="hajay180505" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hajay180505" alt="hajay180505" /></a> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hajay180505&" alt="hajay180505" /></p>
-
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=hajay180505&theme=rose&border_radius=10.3&mode=weekly" alt="GitHub Streak" />
+</a>
 
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajay180505&show_icons=true)
 
