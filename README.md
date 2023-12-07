@@ -54,6 +54,29 @@ I do papercrafting as a hobby ( which you can see [here](https://instagram.com/r
 
 
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hajay180505&label=Profile%20views&color=0e75b6&style=flat" alt="hajay180505" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hajay180505" alt="hajay180505" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hajay180505&show_icons=true&locale=en&layout=compact" alt="hajay180505" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hajay180505&show_icons=true&locale=en" alt="hajay180505" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hajay180505&" alt="hajay180505" /></p>
+
+
+
+
+
+
+
+
+
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=hajay180505&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hajay180505&layout=compact&card_width=350)
