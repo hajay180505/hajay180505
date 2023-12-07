@@ -58,7 +58,7 @@
 
 
 ## My other interests 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" align = 'right' height='200' width="200">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" align = 'right' height='200' width="190">
 
 :kite:	Papercraft (see [here](https://instagram.com/rohan_krishibe))
 
@@ -73,6 +73,7 @@
 ## 📈 My stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hajay180505&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="hajay180505" /> </p>
+<img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="250" align='right'>
 
 <div display='flex' >
     <a align='top' href="https://github.com/ryo-ma/github-profile-trophy">
@@ -81,7 +82,6 @@
   <a align='top' href="https://git.io/streak-stats">
     <img   width=400 src="https://streak-stats.demolab.com?user=hajay180505&theme=synthwave&border_radius=10.3&mode=weekly" alt="GitHub Streak" />
   </a>
-  
 </div>
 
 <div>
