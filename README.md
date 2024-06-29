@@ -14,7 +14,7 @@
 ## :computer:	My tech library  
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" align='right'>
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="[https://www.instagram.com/rohan_krishibe/">
     <img src="https://skillicons.dev/icons?i=arch,arduino,astro,bash,bootstrap,c,cpp,css,debian,django,docker,express,figma,git,html,java,js,latex,linux,mongodb,mysql,nodejs,php,postman,py,qt,r,raspberrypi,react,ros,sqlite,sklearn,selenium,ubuntu,vim,vscode&perline=12" />
   </a>
 </p>
